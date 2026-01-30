@@ -1,1 +1,3 @@
-# chinese-cuisine-mobile-ordering-207879
+# Project Repository
+
+This is the initial README file for the project.
